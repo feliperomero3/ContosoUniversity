@@ -15,7 +15,7 @@ Frequently asked questions
 
 On SQL Server "Connect to server window dialog" type:
 
-|-           |Value
+|  Field     |Value
 |------------|---------------|
 |Server type |Database Engine |
 |Server name |(LocalDb)\MSSQLLocalDB | 
