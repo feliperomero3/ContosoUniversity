@@ -4,7 +4,7 @@ using System.Linq;
 using System.Data.Entity;
 using ContosoUniversityWebApp.Models;
 
-namespace ContosoUniversity.DAL
+namespace ContosoUniversityWebApp.DAL
 {
     public class SchoolInitializer : DropCreateDatabaseIfModelChanges<SchoolContext>
     {

@@ -2,7 +2,7 @@
 using System.Data.Entity.ModelConfiguration.Conventions;
 using ContosoUniversityWebApp.Models;
 
-namespace ContosoUniversity.DAL
+namespace ContosoUniversityWebApp.DAL
 {
     public class SchoolContext : DbContext
     {
