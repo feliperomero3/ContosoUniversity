@@ -7,10 +7,9 @@ by Tom Dykstra](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-sta
 ## Requirements
 
 - Visual Studio 2015 Community
-- Microsoft SQL Server 2014 Developer Edition
 - .NET Framework 4.6.2
 
-## FAQS
+## FAQ
 
 Frequently asked questions
 
