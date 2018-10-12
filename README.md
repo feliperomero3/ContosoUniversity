@@ -1,6 +1,6 @@
 # Contoso University
 
-The Contoso University Web Application as seen on 
+The Contoso University Web Application loosely based on 
 [Getting Started with Entity Framework 6 Code First using MVC 5 
 by Tom Dykstra](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application).
 
