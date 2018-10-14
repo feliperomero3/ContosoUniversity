@@ -1,4 +1,4 @@
-﻿namespace ContosoUniversityWebApp.Models
+﻿namespace ContosoUniversity.Web.Models
 {
     public class Enrollment
     {

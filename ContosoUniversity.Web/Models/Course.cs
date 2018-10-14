@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace ContosoUniversityWebApp.Models
+namespace ContosoUniversity.Web.Models
 {
     public class Course
     {

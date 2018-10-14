@@ -1,6 +1,6 @@
 using System.Web.Mvc;
 
-namespace ContosoUniversityWebApp{
+namespace ContosoUniversity.Web{
     public class FilterConfig
     {
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)

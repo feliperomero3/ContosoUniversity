@@ -6,10 +6,10 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using ContosoUniversityWebApp.DAL;
-using ContosoUniversityWebApp.Models;
+using ContosoUniversity.Web.DAL;
+using ContosoUniversity.Web.Models;
 
-namespace ContosoUniversityWebApp.Controllers
+namespace ContosoUniversity.Web.Controllers
 {
     public class StudentController : Controller
     {
